@@ -1,0 +1,100 @@
+﻿"Cube Title","Product Id","CANSIM Id",URL,"Cube Notes","Archive Status",Frequency,"Start Reference Period","End Reference Period","Total number of dimensions"
+"Impact of social distancing measures on businesses, by business characteristics",33100237,,"https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3310023701",6,"CURRENT - a cube available to the public and that is current","Occasional Monthly",2020-03-01,2020-03-01,3
+
+"Dimension ID","Dimension name","Dimension Notes","Dimension Definitions"
+1,Geography,,
+2,"Business characteristics",,
+3,"Impact of social distancing measures",5,
+
+"Dimension ID","Member Name","Classification Code","Member ID","Parent Member ID",Terminated,"Member Notes","Member Definitions"
+1,Canada,[11124],1,,,,
+2,"Canada, all provinces and territories",,1,,,,
+2,"Newfoundland and Labrador",,2,1,,,
+2,"Prince Edward Island",,3,1,,,
+2,"Nova Scotia",,4,1,,,
+2,"New Brunswick",,5,1,,,
+2,Quebec,,6,1,,,
+2,Ontario,,7,1,,,
+2,Manitoba,,8,1,,,
+2,Saskatchewan,,9,1,,,
+2,Alberta,,10,1,,,
+2,"British Columbia",,11,1,,,
+2,Territories,,12,1,,1,
+2,"North American Industry Classification System (NAICS), all industries",,13,,,,
+2,"Agriculture, forestry, fishing and hunting",[11],14,13,,,
+2,"Mining, quarrying, and oil and gas extraction",[21],15,13,,,
+2,Utilities,[22],16,13,,,
+2,Construction,[23],17,13,,,
+2,Manufacturing,[31-33],18,13,,,
+2,"Wholesale trade",[41],19,13,,,
+2,"Retail trade",[44-45],20,13,,,
+2,"Transportation and warehousing",[48-49],21,13,,,
+2,"Information and cultural industries",[51],22,13,,,
+2,"Finance and insurance",[52],23,13,,,
+2,"Real estate and rental and leasing",[53],24,13,,,
+2,"Professional, scientific and technical services",[54],25,13,,,
+2,"Management of companies and enterprises",[55],26,13,,,
+2,"Administrative and support, waste management and remediation services",[56],27,13,,,
+2,"Educational services",[61],28,13,,,
+2,"Health care and social assistance",[62],29,13,,,
+2,"Arts, entertainment and recreation",[71],30,13,,,
+2,"Accommodation and food services",[72],31,13,,,
+2,"Other services (except public administration)",[81],32,13,,,
+2,"Public administration",[91],33,13,,,
+2,"Business size of employment, all employment sizes",,34,,,2,
+2,"0 employees",,35,34,,,
+2,"1 to 4 employees",,36,34,,,
+2,"5 to 19 employees",,37,34,,,
+2,"20 to 99 employees",,38,34,,,
+2,"100 to 249 employees",,39,34,,,
+2,"250 to 499 employees",,40,34,,,
+2,"500 or more employees",,41,34,,,
+2,"Business type, all businesses",,42,,,,
+2,"Government agencies",,43,42,,3,
+2,"Private sector businesses",,44,42,,,
+2,"Non-profit organizations",,45,42,,,
+2,"Majority ownership, all ownerships",,46,,,4,
+2,"Majority ownership, woman",,47,46,,,
+2,"Majority ownership, First Nations, Métis or Inuit",,48,46,,,
+2,"Majority ownership, visible minority",,49,46,,,
+2,"Majority ownership, immigrant to Canada",,50,46,,,
+2,"Majority ownership, person with a disability",,51,46,,,
+2,"Majority ownership, other",,52,46,,,
+3,"Business has been negatively impacted by social distancing measures",,1,,,,
+3,"Social distancing measures have had little or no impact on business",,2,,,,
+3,"Business has benefited from social distancing measures",,3,,,,
+
+Symbol Legend
+Description,Symbol
+"not available for a specific reference period",..
+"less than the limit of detection",<LOD
+"value rounded to 0 (zero) where there is a meaningful distinction between true zero and the value that was rounded",0s
+"data quality: excellent",A
+"data quality: very good",B
+"data quality: good",C
+"data quality: acceptable",D
+"use with caution",E
+"too unreliable to be published",F
+"not applicable",...
+preliminary,p
+revised,r
+"suppressed to meet the confidentiality requirements of the Statistics Act",x
+terminated,t
+
+"Survey Code","Survey Name"
+5318,"Canadian Survey on Business Conditions"
+
+"Subject Code","Subject Name"
+33,"Business performance and ownership"
+
+"Note ID",Note
+1,"Territories include: Yukon, Northwest Territories, and Nunavut."
+2,"This includes all employees who would receive a T4. Excluded from number of employees are business owners, contract workers and other personnel who would not receive a T4."
+3,"Includes businesses owned or controlled by a government agency."
+4,"Majority-owned: Ownership is comprised of 51% or more."
+5,"Social distancing measures (for example, working from home, school closures, cancelling events) are changes in everyday routines in order to minimize close contact with others and slow the rate of new infections."
+6,"Figures may not add to 100% due to rounding."
+
+"Correction ID","Correction Date","Correction Note"
+
+
