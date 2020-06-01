@@ -3,8 +3,8 @@ NASA Space Apps hackathon on developing solutions to various COVID-19 topics,
 our topic being human factors (05/30/2020 - 05/31/2020).
 
 ### Links
-- COVID-19 Human Factors: [Human Factors]
-- NASA Space Apps Team Page: [NASA Space Apps Team Page]
+- [Human Factors]
+- [NASA Space Apps Team Page]
 
 [Human Factors]: https://covid19.spaceappschallenge.org/challenges/covid-challenges/human-factors/details
 [NASA Space Apps Team Page]: https://covid19.spaceappschallenge.org/challenges/covid-challenges/human-factors/teams/todo-team-name/project
