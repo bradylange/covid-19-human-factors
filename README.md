@@ -5,9 +5,13 @@ our topic being human factors (05/30/2020 - 05/31/2020).
 ### Links
 - [Human Factors]
 - [NASA Space Apps Team Page]
+- [Europa Confirmed COVID-19 Cases]
+- [Google Human Mobility Data]
 
 [Human Factors]: https://covid19.spaceappschallenge.org/challenges/covid-challenges/human-factors/details
 [NASA Space Apps Team Page]: https://covid19.spaceappschallenge.org/challenges/covid-challenges/human-factors/teams/todo-team-name/project
+[Europa Confirmed COVID-19 Cases]: https://data.europa.eu/euodp/en/data/dataset/covid-19-coronavirus-data
+[Google Human Mobility Data]: https://www.google.com/covid19/mobility/
 
 ## Instructions:
 ### Clone Remote Repository Locally
